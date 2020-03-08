@@ -1,5 +1,5 @@
 # Quize Hack
-### Script python para pesquisar perguntas do jogo "Quize" no Google
+### Script python para pesquisar perguntas do jogo [Quize](https://quize.com.br/#/home) no Google
 
 O script utiliza a engine [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) em conjunto com o módulo `pytesseract` para o reconhecimento de texto em imagem.
 
